@@ -1,6 +1,6 @@
 imennyk = input("введіть іменник")
 dieslovo = input("введіть дієслово")
-colour = input("введіть колір")
+
 animal = input("введіть тварину")
 location = input ("введіть місце")
 print(f"Одного разу {imennyk} був дуже сумний, тому що він був {colour}. Він вирішив {dieslovo} у {location}, де зустрів {animal}. Разом вони вирішили залишитися в {location} назавжди, і стали найкращими друзями")
